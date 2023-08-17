@@ -12,19 +12,19 @@ This is a repository for my personal portfolio website, showcasing my skills, pr
 
 
 ## Home Page :
-<img width="960" alt="image" src="https://github.com/daniel-jebarson/daniel-jebarson.github.io/assets/88134306/ecc997bf-173e-4ff8-bb50-40984bf34469">
+<">
 
 ## About Me Page :
-<img width="960" alt="image" src="https://github.com/daniel-jebarson/daniel-jebarson.github.io/assets/88134306/27cf88cc-6ed5-4b0a-bae2-864ae3d176f7">
+<">
 
 ## Resume Page :
-<img width="960" alt="image" src="https://github.com/daniel-jebarson/daniel-jebarson.github.io/assets/88134306/53732e2b-4afb-486e-8ae2-fd28d0a7e414">
+<>
 
 ## Projects Page :
-<img width="960" alt="image" src="https://github.com/daniel-jebarson/daniel-jebarson.github.io/assets/88134306/2da14dd0-c23a-4275-b5c2-2647414339ed">
+<">
 
 ## Contact Page :
-<img width="957" alt="image" src="https://github.com/daniel-jebarson/daniel-jebarson.github.io/assets/88134306/4787a0f5-99ee-4839-bb97-016ec8e3159e">
+<>
 
 
 ## Technologies Used
