@@ -59,6 +59,6 @@ This project is licensed under the [GNU General Public License v3.0](LICENSE). P
 
 ## Contact
 
-If you would like to get in touch with me, you can reach me via email at [Mymail](mailto:danieljebarson21@gmail.com). You can also find more information about me and my work on my [LinkedIn](https://www.linkedin.com/in/daniel-jebarson-k-a727a822a) profile.
+If you would like to get in touch with me, you can reach me via email at [Mymail](mailto:yaseenlevy21@gmail.com). You can also find more information about me and my work on my [LinkedIn](https://www.linkedin.com/in/yaseenlevy) profile.
 
 Thank you for visiting my portfolio website! I hope you find it informative and engaging.
