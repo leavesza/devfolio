@@ -12,12 +12,12 @@ export default function Slidebar() {
       <div className="nav flex  text-white text-lg mt-10 flex-col align-middle justify-center text-center w-full gap-5 overflow-hidden">
         <div data-aos="slide-down">
           <img
-            src={require("../assets/images/MyImage.webp")}
-            alt="Daniel Jebarson"
+            src={require("../assets/images/me.jpg")}
+            alt="Yaseen Levy"
             className="rounded-full border-solid cursor-pointer  border-[8px] border-stone-600 min-h-fit mx-auto  max-w-[190px]"
           />
           <h3 className="text-white name py-4 font-medium ">
-            Daniel Jebarson K
+            M Yaseen Levy
           </h3>
         </div>
         <p
@@ -78,14 +78,14 @@ export default function Slidebar() {
       >
         <div
           onClick={() =>
-            window.open("https://github.com/daniel-jebarson", "_blank")
+            window.open("https://github.com/leavesza", "_blank")
           }
         >
           <GitHubIcon className="cursor-pointer hover:scale-105" />
         </div>
         <div
           onClick={() =>
-            window.open("https://www.instagram.com/daniel_diago2003", "_blank")
+            window.open("https://www.instagram.com/yaseen.levy", "_blank")
           }
         >
           {" "}
@@ -94,20 +94,13 @@ export default function Slidebar() {
         <div
           onClick={() =>
             window.open(
-              "https://www.linkedin.com/in/daniel-jebarson-k-a727a822a",
+              "https://www.linkedin.com/in/yaseenlevy",
               "_blank"
             )
           }
         >
           {" "}
           <LinkedInIcon className="cursor-pointer hover:scale-105" />
-        </div>
-        <div
-          onClick={() =>
-            window.open("https://www.facebook.com/daniel.jebarson.9", "_blank")
-          }
-        >
-          <FacebookIcon className="cursor-pointer hover:scale-105" />
         </div>
       </div>
     </div>

@@ -1,119 +1,68 @@
+import '../assets/images/brainapp.png'
 export const projects = [
   {
-    title: "Plants vs Zombies API",
-    desc: "An API built with with NextTS and Tailwind CSS to help website builders build their websites about Plants-vs-Zombies-2 easily! Data has been scraped from fandom websites and all data are  error free",
+    title: "Face Recognition App",
+    desc: "A facial recognition app that offers seamless sign-in and register functionality. Simply provide an image URL, and the machine learning model, integrated through ReactJS and Node.js, accurately detects faces using a Clarifai API. The backend is powered by ExpressJS and PostgreSQL,  while the app's frontend is hosted on an AWS S3 bucket, with the backend on an Ubuntu-powered EC2 instance. ",
     tags: [
       {
-        name: "NextTs",
-        color: "red-600",
+        name: "ReactJS",
+        color: "blue-600",
       },
       {
-        name: "TailwindCSS",
+        name: "NodeJS",
         color: "green-600",
       },
+      {
+        name: "PostgresDB",
+        color: "blue-300",
+      },
+      {
+        name: "ExpressJS",
+        color: "black-300",
+      },
+      {
+        name: "AWS",
+        color: "yellow-800",
+      },
+
     ],
-    img: "https://cdn.discordapp.com/attachments/1096426516667174994/1109025615442608168/pvz.png",
-    link: "https://pvz-2-api.vercel.app/",
-    code: "https://github.com/code-cracked/plants-vs-zombies-api",
+    img: "https://lh3.googleusercontent.com/drive-viewer/AITFw-wuWa7A_3Jm-vdtfx71F_xiA9CfDCrClUVg0U2sex67l9qGKeW1fkA9na8wEZGarqtOjN5WkOEVTRxZijV-_44S-GxixQ=s1600",
+    link: 'http://yaseenbakkie.s3-website-eu-west-1.amazonaws.com',
+    code: "https://github.com/leavesza/face-recognition-brain.git",
   },
   {
-    title: "Web-Chat-App",
-    desc: "An app made with NextJs to help each other communicate fastly and securely. We can also search for the friends with their username.Realtime updates on messages.",
+    title: "RoboFriends",
+    desc: "Robo Friends is a dynamic web application crafted using ReactJS. This interactive platform showcases an array of friendly robot characters. Leveraging the power of API integration, Robo Friends fetches and displays robot data seamlessly, creating a delightful user experience. The app's responsive design ensures accessibility across devices, while its intuitive interface makes navigation a breeze.",
     tags: [
       {
-        name: "NextJs",
-        color: "red-600",
+        name: "ReactJS",
+        color: "blue-600",
       },
       {
-        name: "ChakraUI",
-        color: "green-600",
-      },
-      {
-        name: "SocketIO",
-        color: "yellow-600",
-      },
-      {
-        name: "MongoDB",
-        color: "blue-800",
-      },
+        name: "Tachyons",
+        color: "white-600",
+      }
     ],
-    img: "https://user-images.githubusercontent.com/88134306/227576773-06c3a1d2-0a1a-4ab2-8d1f-e06d71408410.png",
-    link: "https://web-chat-app-brown.vercel.app",
-    code: "https://github.com/daniel-jebarson/web-chat-app",
+    img: "https://camo.githubusercontent.com/4abd19d665f1b15358793b758f2d6a64f6cef59d1d92287d57fb32bab218015f/68747470733a2f2f692e696d6775722e636f6d2f6a6d4b477036632e6a7067",
+    link: "https://leavesza.github.io/robofriends/",
+    code: "https://github.com/leavesza/robofriends.git",
   },
   {
-    title: "Exploiter(deprecated)",
-    desc: "This is the simple multi-featured discord bot which is in more than 90+ servers that resembles lords mobile as mini game. It contains the featiures of many bots such as dyno,carl-bot,mee6 etc.It helps to authorize the users, audit the messages and can also be used for other server developments and also for mini-games.  ",
+    title: "COMING SOON",
+    desc: "Working on an exciting project at the moment. Rebranding an NPOs website",
     tags: [
       {
-        name: "Python",
-        color: "red-600",
+        name: "ReactJS",
+        color: "blue-600",
       },
       {
-        name: "Discord.py",
-        color: "green-600",
-      },
-      {
-        name: "discord-interactions",
-        color: "yellow-600",
-      },
-      {
-        name: "Flask",
-        color: "blue-800",
-      },
+        name: "ReactBootstrap",
+        color: "purple-600",
+      }
     ],
-    img: "https://cdn.discordapp.com/attachments/1096426516667174994/1109031291522928670/Exploiter.png",
-    link: "https://drive.google.com/file/d/1npEOuOhQh-1zRiLB9fFn-6ORTwd1gZkl/view",
-    code: "https://github.com/daniel-jebarson/EXPLOITER",
+    img: "https://wallpaperaccess.com/full/2200497.jpg",
+    link: "https://github.com/leavesza/keepthechildrensdream",
+    code: "https://github.com/leavesza/keepthechildrensdream"
   },
-  {
-    title: "Stock Market",
-    desc: "Stock Market Website done with ReactJs as Frontend and Express as Backend. This websites gives practice for people those who want to start using stock market. It is based on realtime update of stock value.",
-    tags: [
-      {
-        name: "ReactJs",
-        color: "red-600",
-      },
-      {
-        name: "ExpressJs",
-        color: "green-600",
-      },
-      {
-        name: "MongoDB",
-        color: "blue-800",
-      },
-    ],
-    img: "https://cdn.discordapp.com/attachments/1096426516667174994/1109032447783469097/image.png",
-    link: "https://stock-market-seven.vercel.app/",
-    code: "https://github.com/daniel-jebarson/Stock-Market",
-  },
-  {
-    title: "You-Farm",
-    desc: "An app made with NextJs, Machine Learning and ExpressJs to help farmers to sell their crops without intermediate. It also suggests which crops are needed for the specific soil.",
-    tags: [
-      {
-        name: "NextJs",
-        color: "red-600",
-      },
-      {
-        name: "MaterialUI",
-        color: "green-600",
-      },
-      {
-        name: "ExpressJs",
-        color: "yellow-600",
-      },
-      {
-        name: "FireBase",
-        color: "blue-800",
-      },
-      {
-        name: "Machine Learning",
-        color: "orange-600",
-      },
-    ],
-    img: "https://cdn.discordapp.com/attachments/1096426516667174994/1109035277814611978/Screenshot_19.png",
-    link: "https://github.com/code-cracked/you-farm",
-    code: "https://github.com/code-cracked/you-farm",
-  },
+ 
 ];

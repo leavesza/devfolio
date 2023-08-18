@@ -24,9 +24,9 @@ export default function Home() {
         <Typewriter
           options={{
             strings: [
-              "✋I'm Daniel Jebarson",
-              "I'm an enthusiast Full-Stack 🌐developer",
-              "I'm a 4th yr CSE 👨‍🎓 in VIT Vellore",
+              "✋I'm Yaseen Levy",
+              "I'm a Full-Stack 🌐developer",
+              "I'm a 4th yr Advanced Diploma part-time👨‍🎓 in Applications Development at CPUT",
               "You can 📲 me through discord or ✉️",
             ],
             delay: 150,

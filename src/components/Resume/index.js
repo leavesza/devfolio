@@ -26,19 +26,19 @@ export default function Resume() {
               </svg>
             </span>
             <h3 class="flex items-center mb-1 text-lg font-semibold  text-white ml-28">
-              AWS Cloud Practioner
+             National Diploma in ICT - Applications Development
             </h3>
             <time class="block pt-1 pb-3  text-sm font-normal leading-none  text-gray-500">
-              Completed on July 7th, 2023
+              Graduated in March, 2022
             </time>
             <p class="mb-4 text-base font-normal  text-gray-400">
-              Provides overall understanding of cloud computing concepts,
-              independent of specific technical roles. It provides a detailed
-              overview of cloud concepts, AWS core services, security,
-              architecture, pricing, and support.
+              Focused mainly on Java SE, OOP Concepts, understanding of Data Structures.
+              Coded a Java capstone project in my 3rd year using TDD and springboot.
+              Also Python as an elective subject in my 2nd and 3rd year.
+
             </p>
             <a
-              href="https://www.credly.com/badges/bf6b9024-d4f8-465d-b345-d9b0c5a7abab/public_url"
+              href="SCAN YOUR DOC PLS"
               target="_blank"
               rel="noreferrer"
               class="inline-flex items-center px-4 py-2 mt-2 text-sm font-medium border rounded-lg  focus:z-10 focus:ring-4 focus:outline-none focus:text-blue-700 bg-gray-800 text-gray-400 border-gray-600 hover:text-white hover:bg-gray-700 focus:ring-gray-700"
@@ -161,18 +161,21 @@ export default function Resume() {
         <div className="flex flex-col text-center" data-aos="slide-up">
           <div className="text-3xl font-bold py-3">My Skills</div>
           <div className="ml-16 flex flex-col gap-8 mt-6">
-            <BarGraph name={"JavaScript"} percent={65} />
-            <BarGraph name={"React"} percent={75} />
-            <BarGraph name={"TypeScript"} percent={60} />
-            <BarGraph name={"Java"} percent={80} />
+            <BarGraph name={"JavaScript"} percent={100} />
+            <BarGraph name={"React"} percent={90} />
+            <BarGraph name={"Node"} percent={90} />
+            <BarGraph name={"Express"} percent={90} />
+            <BarGraph name={"Postgres"} percent={90} />
             <BarGraph name={"HTML/CSS"} percent={85} />
-            <BarGraph name={"SQL"} percent={65} />
-            <BarGraph name={"AWS"} percent={40} />
+            <BarGraph name={"SQL"} percent={100} />
+            <BarGraph name={"AWS"} percent={10} />
+            <BarGraph name={"Java"} percent={60} />
+            <BarGraph name={"Python"} percent={60} />
           </div>
 
           <a
-            href={require("../../assets/files/Daniel Resume.pdf")}
-            download={"Dani's Resume"}
+            href={require("../../assets/files/Yaseen Resume.pdf")}
+            download={"Yaseen's Resume"}
             class="inline-flex items-center px-6 py-2 mt-12 mx-auto w-fit text-sm font-medium border rounded-lg  focus:z-10 focus:ring-4 focus:outline-none focus:text-blue-700 bg-gray-800 text-gray-400 border-gray-600 hover:text-white hover:bg-gray-700 focus:ring-gray-700"
           >
             Download CV <DownloadIcon />
