@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/devfolio/static/css/main.9c944d76.css",
+    "main.js": "/devfolio/static/js/main.73eb026d.js",
+    "static/js/787.1ed0c42c.chunk.js": "/devfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/brainapp.png": "/devfolio/static/media/brainapp.f1999b10df36d1666e64.png",
+    "static/media/Yaseen Resume.pdf": "/devfolio/static/media/Yaseen Resume.1666ba0b707007d633a1.pdf",
+    "static/media/mixkit-fast-double-click-on-mouse-275.mp3": "/devfolio/static/media/mixkit-fast-double-click-on-mouse-275.e758e4b03a23060754fe.mp3",
+    "static/media/me.jpg": "/devfolio/static/media/me.252a0783a480ccc002bc.jpg",
+    "static/media/RobotoSlab-Black.ttf": "/devfolio/static/media/RobotoSlab-Black.b1eefbae7b352cda1c3a.ttf",
+    "static/media/RobotoSlab-Bold.ttf": "/devfolio/static/media/RobotoSlab-Bold.aea772dee2141c9b0792.ttf",
+    "static/media/RobotoSlab-Regular.ttf": "/devfolio/static/media/RobotoSlab-Regular.7ff9da9c484d15185b5b.ttf",
+    "static/media/GildaDisplay-Regular.ttf": "/devfolio/static/media/GildaDisplay-Regular.f712cdf2015640c8cc1e.ttf",
+    "static/media/gotosite.webp": "/devfolio/static/media/gotosite.dc2459843a8d51a90e5d.webp",
+    "static/media/github.webp": "/devfolio/static/media/github.ed1c06d925fff0b57e32.webp",
+    "index.html": "/devfolio/index.html",
+    "main.9c944d76.css.map": "/devfolio/static/css/main.9c944d76.css.map",
+    "main.73eb026d.js.map": "/devfolio/static/js/main.73eb026d.js.map",
+    "787.1ed0c42c.chunk.js.map": "/devfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c944d76.css",
+    "static/js/main.73eb026d.js"
+  ]
+}
