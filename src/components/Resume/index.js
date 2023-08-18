@@ -38,7 +38,7 @@ export default function Resume() {
 
             </p>
             <a
-              href="SCAN YOUR DOC PLS"
+              href="https://drive.google.com/file/d/1LeD6_y87JjwyOwyJV46hnw8V4OLN2rVK/view?usp=sharing"
               target="_blank"
               rel="noreferrer"
               class="inline-flex items-center px-4 py-2 mt-2 text-sm font-medium border rounded-lg  focus:z-10 focus:ring-4 focus:outline-none focus:text-blue-700 bg-gray-800 text-gray-400 border-gray-600 hover:text-white hover:bg-gray-700 focus:ring-gray-700"
@@ -75,71 +75,21 @@ export default function Resume() {
               </svg>
             </span>
             <h3 class="mb-1 text-lg font-semibold text-white">
-              BackEnd Development and Apis
+            The Complete Web Developer in 2023: Zero to Mastery
             </h3>
             <time class="block mb-2 text-sm font-normal leading-none text-gray-500">
-              Completed on May 28th, 2022
+              Completed on August 18th, 2023
             </time>
             <p class="text-base font-normal text-gray-400">
-              Learned how to write back end apps with Node.js and npm. I also
-              built web applications with the Express framework, and build some
-              mini-projects
+            Built real complex applications and websites. Built an image recognition app. 
+            Learnt the fundamental building blocks of web development and the developer trends in 2023.
+            Learnt how frontend, servers, and databases communicate and how they all fit together in the eco system
             </p>
             <a
-              href="https://www.freecodecamp.org/certification/Daniel_Jebarson/back-end-development-and-apis"
+              href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-f2c224cc-b324-47f3-b5ff-b6bb2f9c60f8.pdf"
               target="_blank"
               rel="noreferrer"
               class="inline-flex items-center px-4 py-2 mt-5 text-sm font-medium border rounded-lg  focus:z-10 focus:ring-4 focus:outline-none focus:text-blue-700 bg-gray-800 text-gray-400 border-gray-600 hover:text-white hover:bg-gray-700 focus:ring-gray-700"
-            >
-              <svg
-                class="w-4 h-4 mr-2"
-                fill="currentColor"
-                viewBox="0 0 20 20"
-                xmlns="http://www.w3.org/2000/svg"
-              >
-                <path
-                  fill-rule="evenodd"
-                  d="M6 2a2 2 0 00-2 2v12a2 2 0 002 2h8a2 2 0 002-2V7.414A2 2 0 0015.414 6L12 2.586A2 2 0 0010.586 2H6zm5 6a1 1 0 10-2 0v3.586l-1.293-1.293a1 1 0 10-1.414 1.414l3 3a1 1 0 001.414 0l3-3a1 1 0 00-1.414-1.414L11 11.586V8z"
-                  clip-rule="evenodd"
-                ></path>
-              </svg>{" "}
-              Download Certificate
-            </a>
-          </li>
-          <li data-aos="zoom-in" data-aos-offset={"-15"} data-aos-delay="1300">
-            <span class="absolute flex items-center justify-center w-6 h-6 rounded-full -left-3 ring-8 ring-gray-900 bg-blue-900">
-              <svg
-                aria-hidden="true"
-                class="w-3 h-3 text-blue-300"
-                fill="currentColor"
-                viewBox="0 0 20 20"
-                xmlns="http://www.w3.org/2000/svg"
-              >
-                <path
-                  fill-rule="evenodd"
-                  d="M6 2a1 1 0 00-1 1v1H4a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V6a2 2 0 00-2-2h-1V3a1 1 0 10-2 0v1H7V3a1 1 0 00-1-1zm0 5a1 1 0 000 2h8a1 1 0 100-2H6z"
-                  clip-rule="evenodd"
-                ></path>
-              </svg>
-            </span>
-            <h3 class="mb-1 text-lg font-semibold text-white">
-              Frontend Development Libraries
-            </h3>
-            <time class="block mb-2 text-sm font-normal leading-none text-gray-500">
-              Completed on December 9, 2022
-            </time>
-            <p class="text-base font-normal text-gray-400">
-              Learns how to style your site quickly with Bootstrap. I also learn
-              how to add logic to your CSS styles and extend them with Sass.
-              Later, I also built a shopping cart and other applications to
-              learn how to create powerful Single Page Applications (SPAs) with
-              React and Redux.
-            </p>
-            <a
-              target="_blank"
-              rel="noreferrer"
-              href="https://www.freecodecamp.org/certification/Daniel_Jebarson/front-end-development-libraries"
-              class="inline-flex items-center px-4 py-2 mt-5 text-sm font-medium border rounded-lg focus:z-10 focus:ring-4 focus:outline-none focus:text-blue-700 bg-gray-800 text-gray-400 border-gray-600 hover:text-white hover:bg-gray-700 focus:ring-gray-700"
             >
               <svg
                 class="w-4 h-4 mr-2"
