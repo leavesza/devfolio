@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/devfolio/static/css/main.9c944d76.css",
-    "main.js": "/devfolio/static/js/main.73eb026d.js",
+    "main.js": "/devfolio/static/js/main.eb0fe6fd.js",
     "static/js/787.1ed0c42c.chunk.js": "/devfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/brainapp.png": "/devfolio/static/media/brainapp.f1999b10df36d1666e64.png",
     "static/media/Yaseen Resume.pdf": "/devfolio/static/media/Yaseen Resume.1666ba0b707007d633a1.pdf",
@@ -15,11 +15,11 @@
     "static/media/github.webp": "/devfolio/static/media/github.ed1c06d925fff0b57e32.webp",
     "index.html": "/devfolio/index.html",
     "main.9c944d76.css.map": "/devfolio/static/css/main.9c944d76.css.map",
-    "main.73eb026d.js.map": "/devfolio/static/js/main.73eb026d.js.map",
+    "main.eb0fe6fd.js.map": "/devfolio/static/js/main.eb0fe6fd.js.map",
     "787.1ed0c42c.chunk.js.map": "/devfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9c944d76.css",
-    "static/js/main.73eb026d.js"
+    "static/js/main.eb0fe6fd.js"
   ]
 }
